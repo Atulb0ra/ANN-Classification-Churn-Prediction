@@ -4,5 +4,5 @@ tensorboard
 pandas
 numpy
 matplotlib
-python-3.12
 streamlit
+
